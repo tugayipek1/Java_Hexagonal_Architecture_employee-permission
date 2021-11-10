@@ -10,8 +10,8 @@
 <p align="center">
   <h2 align="center">Java_Hexagonal_Architecture_employee-permission</h2>
   <p align="center">
-    DOMAIN : <a href="https://github.com/tugayipek1/Java_Hexagonal_Architecture_employee-permission/tree/main/domain">DOMAIN</a>
-    INFRASTRUCTURE : <a href="https://github.com/tugayipek1/Java_Hexagonal_Architecture_employee-permission/tree/main/infrastructure">INFRASTRUCTURE</a>
+    Domain: <a href="https://github.com/tugayipek1/Java_Hexagonal_Architecture_employee-permission/tree/main/domain">DOMAIN</a>
+    Infrastructure : <a href="https://github.com/tugayipek1/Java_Hexagonal_Architecture_employee-permission/tree/main/infrastructure">INFRASTRUCTURE</a>
     <br />
     <br />
     <a href="https://github.com/tugayipek1/Java_Hexagonal_Architecture_employee-permission/issues">Report Bug</a>
